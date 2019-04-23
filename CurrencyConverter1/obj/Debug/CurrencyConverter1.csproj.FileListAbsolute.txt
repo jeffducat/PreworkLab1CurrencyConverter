@@ -1,0 +1,14 @@
+C:\Users\jduca\source\repos\CurrencyConverter1\CurrencyConverter1\bin\Debug\CurrencyConverter1.exe.config
+C:\Users\jduca\source\repos\CurrencyConverter1\CurrencyConverter1\bin\Debug\CurrencyConverter1.exe
+C:\Users\jduca\source\repos\CurrencyConverter1\CurrencyConverter1\bin\Debug\CurrencyConverter1.pdb
+C:\Users\jduca\source\repos\CurrencyConverter1\CurrencyConverter1\obj\Debug\CurrencyConverter1.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\CurrencyConverter1\CurrencyConverter1\obj\Debug\CurrencyConverter1.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\CurrencyConverter1\CurrencyConverter1\obj\Debug\CurrencyConverter1.exe
+C:\Users\jduca\source\repos\CurrencyConverter1\CurrencyConverter1\obj\Debug\CurrencyConverter1.pdb
+C:\Users\jduca\Desktop\GitGCPrework\Deliverable_1_CurrencyConverter\CurrencyConverter1\bin\Debug\CurrencyConverter1.exe.config
+C:\Users\jduca\Desktop\GitGCPrework\Deliverable_1_CurrencyConverter\CurrencyConverter1\bin\Debug\CurrencyConverter1.exe
+C:\Users\jduca\Desktop\GitGCPrework\Deliverable_1_CurrencyConverter\CurrencyConverter1\bin\Debug\CurrencyConverter1.pdb
+C:\Users\jduca\Desktop\GitGCPrework\Deliverable_1_CurrencyConverter\CurrencyConverter1\obj\Debug\CurrencyConverter1.csprojAssemblyReference.cache
+C:\Users\jduca\Desktop\GitGCPrework\Deliverable_1_CurrencyConverter\CurrencyConverter1\obj\Debug\CurrencyConverter1.csproj.CoreCompileInputs.cache
+C:\Users\jduca\Desktop\GitGCPrework\Deliverable_1_CurrencyConverter\CurrencyConverter1\obj\Debug\CurrencyConverter1.exe
+C:\Users\jduca\Desktop\GitGCPrework\Deliverable_1_CurrencyConverter\CurrencyConverter1\obj\Debug\CurrencyConverter1.pdb
